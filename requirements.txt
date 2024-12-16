@@ -1,0 +1,5 @@
+stripe~=11.3.0
+python-dotenv~=1.0.1
+Flask~=3.1.0
+SQLAlchemy~=2.0.36
+WTForms~=3.2.1
